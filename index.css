@@ -51,6 +51,9 @@ body {
     overflow: hidden;
     
 }
+.message-content{
+    text-align: center;
+}
 
 .chat-box {
     height: 300px;
@@ -118,7 +121,7 @@ body {
     color: #0056b3; /* Customize hover color */
 }
 .loading{
-    padding-left: 100px;
+    padding-left: 20px;
     color:green;
     font-size: 20px;
 }
